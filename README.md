@@ -33,10 +33,13 @@ Added initial project overview to README.md
 .User authentication
 
 Primary Pages
-Page	                 Description
-Property               Listing View	Grid display of available properties with filters
-Listing                Detailed View	Complete property details with images and booking form
-Simple Checkout View	 Streamlined payment and booking confirmation
+
+| Page Name              | Description                                                                 |
+|------------------------|-----------------------------------------------------------------------------|
+| Property Listing View  | Displays a grid of available properties with search and filter options      |
+| Listing Detailed View  | Shows full property details, photo gallery, host info, and booking form     |
+| Simple Checkout View   | Streamlined payment page with booking summary and confirmation              |
+
 
 -Importance of User-Friendly Design
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
