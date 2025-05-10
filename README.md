@@ -81,5 +81,23 @@ Project Roles and Responsibilities
 | Product Owner           |   Defines requirements, prioritizes features, represents stakeholders
 | Scrum Master	          |    Facilitates agile processes, removes blockers, organizes meetings
 
+UI Component Patterns
+Planned Components
+1- navbar:
+-Logo
+-Search bar
+-User navigation
+-Responsive menu
+-Property Card
 
+2- Property image:
+-Basic details (price, location, rating)
+-Favorite button
+-Responsive layout
+-Footer
+
+3- Site links
+-Company information
+-Social media links
+-Copyright information
 
