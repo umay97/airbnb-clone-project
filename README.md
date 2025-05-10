@@ -64,7 +64,22 @@ Typography
 - Secondary Text:
   - Font Weight: Book (400)
   - Font Size: 14px
-
- Why Design Properties Matter
+Why Design Properties Matter:
 
 Identifying the color palette and typography from the Figma mockup ensures the visual consistency of the project. These design properties help maintain a professional look and feel, enhance brand identity, and provide clear guidance for developers implementing the UI. Following the mockup specifications also reduces confusion, ensures pixel-perfect implementation, and creates a seamless experience for users across different pages and devices.
+
+Project Roles and Responsibilities
+
+| Role	                                          Responsibilities
+|-------------------------|-------------------------------------------------------------------
+| Project Manager         |   Oversees timeline, coordinates team, manages deliverables
+| Frontend Developers	    |   Implements UI components, ensures responsive design
+| Backend Developers      |   Builds APIs, manages database, implements business logic
+| Designers               | 	Creates mockups, maintains design system, ensures UX quality
+| QA/Testers              |  	Writes test cases, performs testing, reports bugs
+| DevOps Engineers	      |   Manages deployment, CI/CD pipeline, server infrastructure
+| Product Owner           |   Defines requirements, prioritizes features, represents stakeholders
+| Scrum Master	          |    Facilitates agile processes, removes blockers, organizes meetings
+
+
+
