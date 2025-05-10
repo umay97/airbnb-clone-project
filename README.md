@@ -19,12 +19,14 @@ This project is a full-stack clone of the popular accommodation booking platform
   
 Added initial project overview to README.md
 
--Design Goals
+# UI/UX Design Planning
+
+-Design Goals:
 .Create intuitive booking flow
 .Maintain visual consistency
 .Ensure fast loading times
 .Prioritize mobile responsiveness
--Key Features
+-Key Features:
 .Property search and filtering
 .Detailed property viewing
 .Secure checkout process
