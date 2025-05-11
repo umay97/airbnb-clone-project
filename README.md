@@ -32,7 +32,7 @@ Detailed property viewing
 Secure checkout process
 User authentication
 
-Primary Pages
+# Primary Pages
 
 | Page Name              | Description                                                                 |
 |------------------------|-----------------------------------------------------------------------------|
@@ -44,6 +44,7 @@ Primary Pages
 -Importance of User-Friendly Design
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
 
+# Figma Design Specifications
 Color Styles
 
 - **Primary Color:** `#FF5A5F`
@@ -68,7 +69,7 @@ Why Design Properties Matter:
 
 Identifying the color palette and typography from the Figma mockup ensures the visual consistency of the project. These design properties help maintain a professional look and feel, enhance brand identity, and provide clear guidance for developers implementing the UI. Following the mockup specifications also reduces confusion, ensures pixel-perfect implementation, and creates a seamless experience for users across different pages and devices.
 
-Project Roles and Responsibilities
+# Project Roles and Responsibilities
 
 | Role               | Responsibilities                                                       |
 |--------------------|------------------------------------------------------------------------|
@@ -82,7 +83,7 @@ Project Roles and Responsibilities
 | Scrum Master        | Facilitates agile processes, removes blockers, organizes meetings     |
 
 
-UI Component Patterns
+# UI Component Patterns
 Planned Components
 1- navbar:
 -Logo
